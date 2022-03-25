@@ -3,6 +3,5 @@
 ## build
 
 ```
-# cmake .
-# make
+# ./build.sh
 ```
